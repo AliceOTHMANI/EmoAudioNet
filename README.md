@@ -9,8 +9,8 @@ If you want to use this code, thanks for citing:
 
 Othmani, A., Kadoch, D., Bentounes, K., Rejaibi, E., Alfred, R., and Hadid,A. (2020). Towards robust deep neural networks for affect and depression recognition. ICPR 2020.
 
-# Licence
-This project is licensed under the MIT License - see the LICENSE.md file for details
+# Paper link 
+To be added soon
 
 ## Installation
 
