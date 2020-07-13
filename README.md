@@ -36,3 +36,5 @@ After installing all dependencies:
 
 * To train the model, you should run `python Concatenate_Model.py`. You must have generated all required features (MFCC and Spectrograms) with pickle. 
 
+## Acknowledgments
+Thanks for all authors for the great job and the team spirit.
